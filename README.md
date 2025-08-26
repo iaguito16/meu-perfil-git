@@ -9,3 +9,16 @@ Olá! Sou um estudante de desenvolvimento de software do Senai.
 - Games
 - Tecnologia
 - Montar Pc
+
+## Tecnologia
+
+| Tecnologia | Nível |
+|-------------------------|
+| Html | Iniciante |
+|-------------------------|
+| Css | Iniciante |
+|-------------------------|
+| Javascript | Iniciante |
+|-------------------------|
+| Python | Básico |
+|-------------------------|
